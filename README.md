@@ -1,5 +1,3 @@
-Here is a description for a GitHub repository containing that main.py file:
-
 # U.S. States Game
 
 This is a Python game to learn the names of the U.S. states. The game displays a map of the U.S. and prompts the user to enter the names of the states. As each state is correctly guessed, it is filled in on the map. 
