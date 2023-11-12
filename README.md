@@ -1,4 +1,5 @@
 # U.S. States Game
+# made by keshav kumar jha 
 
 This is a Python game to learn the names of the U.S. states. The game displays a map of the U.S. and prompts the user to enter the names of the states. As each state is correctly guessed, it is filled in on the map. 
 
